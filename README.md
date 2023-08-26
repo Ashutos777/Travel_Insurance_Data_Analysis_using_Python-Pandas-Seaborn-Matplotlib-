@@ -1,6 +1,6 @@
 # TRAVEL INSURANCE DATA ANALYSIS
 * Sample Dataset containing Travel Insurance Data of several Agencies and Destinations. In this project i have done
-    the Exploratory Data Analysis(EDA) on Travel Insurance Data by using python (pandas,Seaborn and matplotlib).
+    the Exploratory Data Analysis(EDA) on Travel Insurance Data by using python (pandas,Seaborn and matplotlib)
 #  DATASET -
 * ### For Dataset, Please refer to :  travel insurance.csv .
 
